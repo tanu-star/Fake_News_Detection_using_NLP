@@ -1,0 +1,9 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+article_id,object/numeric,1,2,3,No,article_id — [Learner to fill in description]
+source,object/numeric,source_11,source_2,source_15,No,source — [Learner to fill in description]
+word_count,object/numeric,1098,1222,1249,No,word_count — [Learner to fill in description]
+sentiment_score,object/numeric,-0.181,-0.041,0.067,No,sentiment_score — [Learner to fill in description]
+exclamation_count,object/numeric,7,13,13,No,exclamation_count — [Learner to fill in description]
+all_caps_pct,object/numeric,0.063,0.118,0.215,No,all_caps_pct — [Learner to fill in description]
+label,object/numeric,REAL,FAKE,REAL,No,label — [Learner to fill in description]
+political_lean,object/numeric,Unknown,Center,Unknown,No,political_lean — [Learner to fill in description]
